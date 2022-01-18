@@ -1,0 +1,15 @@
+{
+  "name": "teste01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pachecolucas/teste01.git",
+  "author": "Lucas Pacheco <3074217+pachecolucas@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+
+}
